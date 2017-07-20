@@ -27,7 +27,13 @@ public class AppTest
     {
         return new TestSuite( AppTest.class );
     }
-
+	/**
+     * testing github
+     */
+	public static TestGithub()
+	{
+		System.out.println("testing github" );//测试gitbub
+	}
     /**
      * Rigourous Test :-)
      */
