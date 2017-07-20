@@ -34,6 +34,10 @@ public class AppTest
 	{
 		System.out.println("testing github" );//测试gitbub
 	}
+	public static DXC()
+	{
+		System.out.println("Morian2017/07/20" );//测试gitbub
+	}
     /**
      * Rigourous Test :-)
      */
